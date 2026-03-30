@@ -1,0 +1,17 @@
+google-adk>=0.4.0
+google-genai>=0.7.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+deprecated>=1.2.14
+wrapt>=1.14.0
+requests>=2.31.0
+aiofiles>=23.0.0
+
+#google-adk — Google's Agent Development Kit, the framework we use to build the agent
+#google-generativeai — SDK to talk to Gemini models
+#fastapi — Web framework to create the HTTP endpoint
+#uvicorn — Web server that runs FastAPI
+#pydantic — Validates that our data has the right structure
+#python-dotenv — Reads API keys from a .env file safely
