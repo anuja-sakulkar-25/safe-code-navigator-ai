@@ -1,3 +1,4 @@
+
 # SafeCode Navigator AI
 
 **An AI agent that helps new developers understand legacy codebases safely — without leaking company secrets, without interrupting senior engineers.**
@@ -7,13 +8,7 @@ Built for the Google Cloud GenAI Academy APAC Edition using Google ADK, Gemini 2
 ---
 
 ## Live Demo
-Note: This is a demo deployment. Please avoid excessive usage.
-
-| Resource             | Link                                                             |
-|----------------------|------------------------------------------------------------------|
-| Cloud Run (Live App) | `https://safecode-navigator-ai-278503764579.asia-south1.run.app` |
-|-----------------------------------------------------------------------------------------|
-
+🔗 Demo: Available upon request (live endpoint disabled to prevent misuse and billing)
 ---
 
 ## Problem Statement
